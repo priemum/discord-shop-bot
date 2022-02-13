@@ -1,0 +1,102 @@
+[
+  {
+    "name": "pdv",
+    "normal_name": "ПДВ",
+    "price": [
+      {
+        "max": 9,
+        "price": 2050
+      },
+      {
+        "max": 29,
+        "price": 2000
+      },
+      {
+        "max": 9999999,
+        "price": 1950
+      }
+    ]
+  },
+  {
+    "name": "binoc",
+    "normal_name": "Бинокль",
+    "price": 1500
+  },
+  {
+    "name": "knife",
+    "normal_name": "Нож для свежевания",
+    "price": 1600
+  },
+  {
+    "name": "oxota",
+    "normal_name": "Ружье для охоты",
+    "price": 8650
+  },
+  {
+    "name": "smg",
+    "normal_name": "Мини смг",
+    "price": 1500
+  },
+  {
+    "name": "tpist",
+    "normal_name": "Тяжелый пистолет",
+    "price": 1100
+  },
+  {
+    "name": "drob",
+    "normal_name": "Дробовик булл-пап",
+    "price": 2100
+  },
+  {
+    "name": "bpist",
+    "normal_name": "Боевой пистолет",
+    "price": 900
+  },
+  {
+    "name": "mk2",
+    "normal_name": "Пистолет Mk2",
+    "price": 700
+  },
+  {
+    "name": "autopist",
+    "normal_name": "Автоматический пистолет",
+    "price": 1300
+  },
+  {
+    "name": "5.56",
+    "normal_name": "5.56mm",
+    "price": [
+      {
+        "max": 4999,
+        "price": 3.4
+      },
+      {
+        "max": 9999,
+        "price": 3.3
+      },
+      {
+        "max": 9999999,
+        "price": 3.2
+      }
+    ]
+  },
+  {
+    "name": "9",
+    "normal_name": "9mm",
+    "price": 8
+  },
+  {
+    "name": "12",
+    "normal_name": "12mm",
+    "price": [
+      {
+        "max": 999,
+        "price": 14
+      },
+      {
+        "max": 9999999,
+        "price": 13
+      }
+    ]
+  }
+]

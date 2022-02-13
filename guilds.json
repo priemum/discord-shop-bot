@@ -1,0 +1,213 @@
+[
+	{
+		"id": "928739292199677953",
+		"settings": {
+			"prefix": "!",
+			"price_channel": "928954870017437726",
+			"review_channel": "928959053340762122",
+			"orders_channel": "930452152361574431",
+			"seller_role": "Продавец"
+		},
+		"items": [
+			{
+				"label": "Патроны",
+				"description": "Боеприпасы для оружия",
+				"items": [
+					{
+						"label": "5.56",
+						"normal_name": "5.56mm",
+						"price": [
+							{
+								"max": 4999,
+								"price": 3.4
+							},
+							{
+								"max": 9999,
+								"price": 3.3
+							},
+							{
+								"max": 9999999,
+								"price": 3.2
+							}
+						],
+						"value": "0"
+					},
+					{
+						"label": "9",
+						"normal_name": "9mm",
+						"price": 8,
+						"value": "1"
+					},
+					{
+						"label": "12",
+						"normal_name": "12mm",
+						"price": [
+							{
+								"max": 999,
+								"price": 14
+							},
+							{
+								"max": 9999999,
+								"price": 13
+							}
+						],
+						"value": "2"
+					}
+				],
+				"step": [
+					100,
+					750,
+					5000
+				],
+				"value": "0"
+			},
+			{
+				"label": "GUN*S",
+				"description": "This is a description",
+				"items": [
+					{
+						"label": "ПДВ",
+						"normal_name": "ПДВ",
+						"price": [
+							{
+								"max": 9,
+								"price": 2050
+							},
+							{
+								"max": 29,
+								"price": 2000
+							},
+							{
+								"max": 999999999,
+								"price": 1950
+							}
+						],
+						"value": "0"
+					}
+				],
+				"step": [
+					1,
+					10,
+					25
+				],
+				"value": "1"
+			},
+			{
+				"label": "Прочее",
+				"items": [
+					{
+						"label": "ВДП",
+						"price": [
+							{
+								"max": 10,
+								"price": 2050
+							},
+							{
+								"max": 30,
+								"price": 2000
+							},
+							{
+								"max": 999999999,
+								"price": 1950
+							}
+						],
+						"value": "0"
+					}
+				],
+				"step": [
+					1,
+					5,
+					25
+				],
+				"value": "2"
+			}
+		],
+		"orders": [
+			{
+				"user": {
+					"id": "799779200592379926",
+					"bot": false,
+					"system": false,
+					"flags": 64,
+					"username": "THEMOD",
+					"discriminator": "7664",
+					"avatar": "1456697f4d02e9f43f587ff9ee1ae117",
+					"createdTimestamp": 1610752620600,
+					"defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/4.png",
+					"tag": "THEMOD#7664",
+					"avatarURL": "https://cdn.discordapp.com/avatars/799779200592379926/1456697f4d02e9f43f587ff9ee1ae117.webp",
+					"displayAvatarURL": "https://cdn.discordapp.com/avatars/799779200592379926/1456697f4d02e9f43f587ff9ee1ae117.webp"
+				},
+				"data": [],
+				"step": 0,
+				"channel": "931958362415955999"
+			}
+		],
+		"data": [],
+		"queue": []
+	},
+	{
+		"id": "930545557892632576",
+		"settings": {
+			"prefix": "!",
+			"seller_role": "Продавец",
+			"price_channel": "930556785310453821",
+			"review_channel": "930556785310453821",
+			"orders_channel": "930556773625135154"
+		},
+		"orders": [],
+		"data": []
+	},
+	{
+		"id": "529066871673061404",
+		"settings": {
+			"seller_role": null,
+			"prefix": "!",
+			"price_channel": null,
+			"review_channel": null,
+			"orders_channel": null
+		},
+		"orders": [],
+		"queue": [
+			{
+				"url": "https://www.youtube.com/watch?v=c_tSDJD1Jf8",
+				"title": "LIZER  - Пачка Сигарет (prod. by boyfifty)",
+				"thumbnail": "https://i.ytimg.com/vi/c_tSDJD1Jf8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAkf--YRLH5GwPRvW6SOSw5ZHZH9g",
+				"added_by": {
+					"id": "283240289211252737",
+					"bot": false,
+					"system": false,
+					"flags": 256,
+					"username": "THEMOD",
+					"discriminator": "7638",
+					"avatar": "86898c7354343a5991783db8af2e73f8",
+					"createdTimestamp": 1487600147298,
+					"defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png",
+					"tag": "THEMOD#7638",
+					"avatarURL": "https://cdn.discordapp.com/avatars/283240289211252737/86898c7354343a5991783db8af2e73f8.webp",
+					"displayAvatarURL": "https://cdn.discordapp.com/avatars/283240289211252737/86898c7354343a5991783db8af2e73f8.webp"
+				}
+			},
+			{
+				"url": "https://www.youtube.com/watch?v=hgNaOU0UOaQ",
+				"title": "PHARAOH - На Луне",
+				"thumbnail": "https://i.ytimg.com/vi/hgNaOU0UOaQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDMpFN_UiXZ49wblQP3QemeicquJg",
+				"added_by": {
+					"id": "283240289211252737",
+					"bot": false,
+					"system": false,
+					"flags": 256,
+					"username": "THEMOD",
+					"discriminator": "7638",
+					"avatar": "86898c7354343a5991783db8af2e73f8",
+					"createdTimestamp": 1487600147298,
+					"defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png",
+					"tag": "THEMOD#7638",
+					"avatarURL": "https://cdn.discordapp.com/avatars/283240289211252737/86898c7354343a5991783db8af2e73f8.webp",
+					"displayAvatarURL": "https://cdn.discordapp.com/avatars/283240289211252737/86898c7354343a5991783db8af2e73f8.webp"
+				}
+			}
+		],
+		"data": []
+	}
+]

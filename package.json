@@ -1,0 +1,23 @@
+{
+  "name": "botfords",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.7.5",
+    "axios": "^0.24.0",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord.js": "^13.5.0",
+    "ffmpeg-static": "^4.4.1",
+    "libsodium-wrappers": "^0.7.9",
+    "nodemon": "^2.0.15",
+    "yt-search": "^2.10.3",
+    "ytdl-core": "^4.10.0"
+  }
+}
