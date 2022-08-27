@@ -5,7 +5,7 @@ const {MessageActionRow, MessageButton, MessageSelectMenu} = require("discord.js
 const fs = require('fs');
 const comms = require("./comms.js");
 let config = require('./config.json');
-let guilds = require('./guilds.json');
+let guilds = require('./guilds.json');        
 const names = require("./names.json");
 
 let token = config.token;
